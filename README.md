@@ -1,4 +1,4 @@
-# www-Kyle.github.io
+# Welcome to Kyle's page.
 
 ## Hey it is now time for the office.
 
