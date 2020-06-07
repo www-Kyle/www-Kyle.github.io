@@ -6,5 +6,5 @@
 
 [Fortnite](https://www.epicgames.com/fortnite/)
 
-[School](https://www-kyle.github.io/school/)
+[School](https://www-kyle.github.io/school.html)
 
